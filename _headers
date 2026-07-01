@@ -1,0 +1,11 @@
+/*
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/assets/*
+  Cache-Control: no-cache, must-revalidate
+
+/data/*
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/.netlify/functions/*
+  Cache-Control: no-cache, no-store, must-revalidate
