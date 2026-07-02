@@ -1,0 +1,42 @@
+{
+  "section": "overview",
+  "noteKey": "total",
+  "group": "A事業群",
+  "category": "全員",
+  "note": "再說一次",
+  "meta": {
+    "rows": [
+      {
+        "quarter": "2026/01/05",
+        "rawDate": "20260105",
+        "regular": 207767,
+        "dispatch": 163902,
+        "total": 371669,
+        "idl": 52320,
+        "dl": 155447
+      },
+      {
+        "quarter": "2026/03/31",
+        "rawDate": "20260331",
+        "regular": 197334,
+        "dispatch": 143889,
+        "total": 341223,
+        "idl": 51151,
+        "dl": 146183
+      },
+      {
+        "quarter": "2026/06/30",
+        "rawDate": "20260630",
+        "regular": 198989,
+        "dispatch": 122577,
+        "total": 321566,
+        "idl": 51222,
+        "dl": 147767
+      }
+    ],
+    "source": "資料來源：data/abg-base-headcount.csv",
+    "folder": "notes/overview/total/"
+  },
+  "savedAt": "2026-07-02T03:26:14.446Z",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+}
